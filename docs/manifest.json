@@ -19,7 +19,7 @@
     },
     {
       "purpose": "maskable any",
-      "src": "https://canoypa.github.io/pwa-test/assets/icon-512.png",
+      "src": "https://canoypa.github.io/pwa-test/assets/icon-x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
