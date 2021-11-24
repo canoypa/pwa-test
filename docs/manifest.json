@@ -1,6 +1,6 @@
 {
   "display": "standalone",
-  "start_url": "https://canoypa.github.io/pwa-test",
+  "start_url": "https://canoypa.github.io/pwa-test/",
   "scope": "https://canoypa.github.io/pwa-test/",
 
   "name": "PWA Test",
