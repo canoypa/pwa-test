@@ -42,7 +42,7 @@
   "shortcuts": [
     {
       "name": "Shortcut Test",
-      "url": "https://canoypa.github.io/pwa-test",
+      "url": "https://canoypa.github.io/pwa-test/#shortcut_test",
       "icons": [
         {
           "src": "https://canoypa.github.io/pwa-test/assets/icon-192.png",
