@@ -7,8 +7,8 @@
   "short_name": "PWA Test",
   "description": "This is a PWA test app.",
 
-  "background_color": "#ffffff",
-  "theme_color": "#ffffff",
+  "background_color": "#ff0000",
+  "theme_color": "#ff0000",
 
   "icons": [
     {
