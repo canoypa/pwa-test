@@ -7,9 +7,6 @@
   "short_name": "PWA Test",
   "description": "This is a PWA test app.",
 
-  "background_color": "#ff0000",
-  "theme_color": "#ff0000",
-
   "icons": [
     {
       "src": "https://canoypa.github.io/pwa-test/assets/icon-192.png",
